@@ -1,0 +1,20 @@
+{
+  "name": "jdp-unit-test-mocking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7",
+    "nock": "^13.2.3"
+  }
+}
